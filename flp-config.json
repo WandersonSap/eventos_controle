@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "ovly.controles.eventos.eventos",
+        "description": "controle de eventos",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#eventos-Display",
+        "navigationComponentName": "ovly.controles.eventos",
+        "intentSemanticObject": "eventos",
+        "intentAction": "Display",
+        "html5ApplicationName": "eventos",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "116945ed-f64a-421a-b9c8-2fec12095a5d"
+        ],
+        "contentPackages": [
+            "95705485-781c-4460-b4d1-eccf61f11420"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Contole de Eventos",
+        "subtitle": "MCV",
+        "searchKeywords": "Contole de Eventos,MCV",
+        "displayIconUrl": "sap-icon://keyboard-and-mouse",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
